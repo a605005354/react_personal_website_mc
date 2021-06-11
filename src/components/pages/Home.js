@@ -1,12 +1,13 @@
 import '../../App.css';
-import IntroVideo from '../IntroVideo';
+import IntroCover from '../IntroCover';
+
 
 
 
 function Home(){
     return(
         <>
-            <IntroVideo />
+            <IntroCover />
         </>
     )
 }
