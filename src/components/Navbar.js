@@ -49,7 +49,7 @@ function Navbar() {
                     </li>
                     <li>
                         <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                            EXPERIENCE(专业技能)
+                            EXPERIENCE(经历)
                         </Link>
                     </li>
                     <li>
