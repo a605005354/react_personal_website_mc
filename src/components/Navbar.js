@@ -42,22 +42,22 @@ function Navbar() {
                             HOME(主页)
                         </Link>
                     </li>
-                    <li>
+                    <li className='navi-item'>
                         <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                             PROFESSIONAL(专业技能)
                         </Link>
                     </li>
-                    <li>
+                    <li className='navi-item'>
                         <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                             EXPERIENCE(经历)
                         </Link>
                     </li>
-                    <li>
+                    <li className='navi-item'>
                         <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                             PORTFOLIO(个人项目)
                         </Link>
                     </li>
-                    <li>
+                    <li className='navi-item'>
                         <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                             CONTACT(联系方式)
                         </Link>
