@@ -8,9 +8,7 @@ function IntroCover() {
             
             <h1>I'M<br/>MINGYONG<br/>CAI<br/>蔡明勇</h1>
             <p>A Software Engineer<br/> 一个软件工程师</p>
-            <div className="intro-box">
 
-            </div >
         </div>
         
     )
